@@ -31,7 +31,7 @@ def ping_ip(current_ip_address):
 if __name__ == '__main__':
     helpTrue = False
     Art = text2art("PING-TOOL")
-    if(sys.argv[1] == '-h' or sys.argv[1] == '-help'):
+    if(sys.argv[1] == '-h' or sys.argv[1] == '--help'):
         print(Art)
         print("             [--] made by s01")
         print(
