@@ -9,4 +9,4 @@ pip install ipaddress,art
 python ping_tool.py --help
 ```
 
-![picture](ping-tool/sample.png)
+![picture](https://raw.githubusercontent.com/solzilberman/ping-tool/master/sample.PNG)
