@@ -4,9 +4,9 @@ Python tool to see what hosts are up for a given range.
 this is just for fun.
 usage
 ```python
-git clone git https://github.com/solzilberman/ping-tool.git
+git clone https://github.com/solzilberman/ping-tool.git
 pip install ipaddress,art
 python ping_tool.py --help
 ```
 
-![picture](ping-tool/sample.png)
+![picture](https://raw.githubusercontent.com/solzilberman/ping-tool/master/sample.PNG)
