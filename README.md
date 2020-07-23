@@ -8,3 +8,5 @@ git clone git https://github.com/solzilberman/ping-tool.git
 pip install ipaddress,art
 python ping_tool.py --help
 ```
+
+![picture](sample.png)
