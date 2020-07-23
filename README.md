@@ -1,5 +1,5 @@
 # ping-tool
-Python tool to see what hosts are up on IPRANGE
+Python tool to see what hosts are up for a given range.
 
 this is just for fun.
 usage
